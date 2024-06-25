@@ -1,0 +1,2 @@
+sudo su
+apt install realtek-rtl88xxau-dkms
